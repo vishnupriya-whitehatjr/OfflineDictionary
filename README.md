@@ -16,6 +16,9 @@ If not, watch my video on how to install Expo:
 For More Detailed video watch :
 <a href ="https://www.youtube.com/watch?v=llveG3Qp0no&ab_channel=DroidpediaAcademy">Run an Expo app and generete .apk,.app files </a>
 
+#### For Database refer to: https://github.com/vishnupriya-whitehatjr/dictionarywords
+Use the link : https://vishnupriya-whitehatjr.github.io/dictionarywords/a.json
+Replace a with the word of your choice to see the meaning!!
 
 ##### Output Screen :
 <br/>
