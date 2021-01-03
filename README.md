@@ -14,10 +14,5 @@ If not, watch my video :
 
 ##### Output Screen :
 <br/>
-
-<img src ="https://user-images.githubusercontent.com/59869563/103475378-a7494580-4dd2-11eb-823b-ec7c47408f1c.png" 
-width="439px" height="806px">
-
-
 <img src ="https://user-images.githubusercontent.com/59869563/103475399-d65fb700-4dd2-11eb-9c1e-94022ac43a13.png" 
 width="439px" height="806px">
