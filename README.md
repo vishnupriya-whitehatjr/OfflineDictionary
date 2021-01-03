@@ -18,6 +18,7 @@ For More Detailed video watch :
 
 #### For Database refer to: https://github.com/vishnupriya-whitehatjr/dictionarywords
 Use the link : https://vishnupriya-whitehatjr.github.io/dictionarywords/a.json
+
 Replace a with the word of your choice to see the meaning!!
 
 ##### Output Screen :
