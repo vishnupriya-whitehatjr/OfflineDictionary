@@ -27,7 +27,9 @@ export default class App extends React.Component {
   getWord = (word) => {
     var searchKeyword = word.toLowerCase();
     var url =
-      "https://rupinwhitehatjr.github.io/dictionary/" + searchKeyword + ".json";
+      "https://vishnupriya-whitehatjr.github.io/dictionarywords/" +
+      searchKeyword +
+      ".json";
     console.log(this.state.isSearchPressed);
     return fetch(url)
       .then((data) => {
